@@ -205,3 +205,6 @@ This repository serves as the official landing page for STAR WARS Jedi Knight - 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of STAR WARS Jedi Knight - Mysteries of the Sith today!**
+
+---
+**Last updated:** 2026-11-09 15:36:51 UTC
