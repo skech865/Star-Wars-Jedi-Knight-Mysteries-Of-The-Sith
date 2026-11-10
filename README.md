@@ -207,4 +207,4 @@ This repository serves as the official landing page for STAR WARS Jedi Knight - 
 **Get the most recent version of STAR WARS Jedi Knight - Mysteries of the Sith today!**
 
 ---
-**Last updated:** 2026-11-10 08:05:02 UTC
+**Last updated:** 2026-11-10 16:52:18 UTC
